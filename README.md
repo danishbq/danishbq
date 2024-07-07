@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Hey there! I'm Danish and I'm all about crafting and refining business solutions through technology and data. With a passion for developing innovative solutions powered by AI and optimizing processes and systems through data analysis, I strive to make impactful contributions in every role and project I undertake. My experience spans development, data and business analysis, and business intelligence.
+
+You can reach me at: danishbadarqureshi@gmail.com
+
 <!--
 **danishbq/danishbq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
